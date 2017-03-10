@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AE0CF788-EC05-4813-A04C-F518305B4D68}</ProjectGuid>
+    <ProjectGuid>{F325D905-CD73-480E-9B45-E5A9F2B3CF67}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>appveyor_demo</RootNamespace>
