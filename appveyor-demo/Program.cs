@@ -5,7 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace appveyor_demo {
-    class Program {
+    public class Factorial {
+        public long compute(long i) {
+            return 0;
+        }
+
         static void Main(string[] args) {
         }
     }
