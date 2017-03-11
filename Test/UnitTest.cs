@@ -6,7 +6,7 @@ namespace Test {
     [TestClass]
     public class UnitTest {
         [TestMethod]
-        public void ZeroFactorial_Test() {
+        public void ZeroFactorial_Test() { 
             Factorial factorial = new Factorial();
             Assert.AreEqual(0, factorial.compute(0));
         }
